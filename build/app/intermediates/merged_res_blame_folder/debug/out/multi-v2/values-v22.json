@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Extra learnings\\store_app-main\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\meets\\.gradle\\caches\\transforms-3\\052fe731e25d9a3e2ac3b152d9d5f98f\\transformed\\appcompat-1.6.1\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}
